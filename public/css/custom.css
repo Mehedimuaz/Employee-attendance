@@ -1,0 +1,25 @@
+.button-green { /* Green */
+    background-color: forestgreen !important;
+    border: none;
+    color: white;
+    width: 65%;
+    padding: 12px 44px;
+    text-align: center;
+    border-radius: 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+.button-brown {
+    background-color: #D2691E !important; /* brown */
+    border: none;
+    color: white;
+    width: 65%;
+    padding: 12px 44px;
+    text-align: center;
+    border-radius: 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
